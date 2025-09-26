@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+torch
+transformers
+docling
+docling-parse
+langchain
+langchain-community
+langchain-huggingface
+chromadb
+pypdf
+llama-cpp-python
+sentence-transformers
+accelerate
