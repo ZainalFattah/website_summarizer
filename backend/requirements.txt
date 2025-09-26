@@ -10,6 +10,6 @@ langchain-community
 langchain-huggingface
 chromadb
 pypdf
-llama-cpp-python
+--no-cache-dir llama-cpp-python==0.2.77 --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cu121 
 sentence-transformers
 accelerate
